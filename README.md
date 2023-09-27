@@ -48,9 +48,6 @@ This project was developed with the help of the following resources:
 
 MIT License
 
-```markdown
-MIT License
-
 Copyright (c) [2023] [Ross Fahan]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
